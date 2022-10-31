@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# studyReactForTranscendence
-리액트 자습서 v2 를 통해서 리액트를 배워봅니다.
-[리액트자습서v2링크](https://beta.reactjs.org)
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -49,4 +44,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
->>>>>>> 66ac0fcdea3a12998bfecf93e411f5a835f2ccd1
