@@ -1,0 +1,16 @@
+.navbar-brand {
+    font-size: 1.5em;
+    background: tomato;
+}
+.nav-link1 {
+    font-size: 1.5em;
+    background: cornflowerblue;
+}
+.nav-link2 {
+    font-size: 1.5em;
+    background: green;
+}
+
+.navbartop {
+    background: black;
+}
