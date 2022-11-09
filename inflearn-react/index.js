@@ -7,10 +7,10 @@ const config = require('./config/key');
 const { User } = require('./models/User')
 
 //application/x-www-form-urlencoded
-app.use(bodyParser.urlencoded({extended: true}));
+app.use(bodyParser.urlencoded({extended: true}));//bodyParser가 client에서 오는 정보를 서버에서 분석해서 가져올 수 있게 해줌
 
 //application/json
-app.use(bodyParser.json());
+app.use(bodyParser.json());//json 형식으로 된 것을 분석해서 가져올 수 있게 해줌
 
 const mongoose = require('mongoose')
 mongoose.connect(config.mongoURI, {
